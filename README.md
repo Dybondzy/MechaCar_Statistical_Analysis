@@ -22,8 +22,10 @@ Files
 Use the following links to download the Challenge data sets.
 
 Download the MechaCar MPG dataset (Links to an external site.).
+! https://github.com/Dybondzy/MechaCar_Statistical_Analysis/blob/main/MechaCar_mpg.csv
 
 Download the Suspension Coil dataset (Links to an external site.).
+! https://github.com/Dybondzy/MechaCar_Statistical_Analysis/blob/main/MechaCar_mpg.csv
 
 Before You Start
 Create a new GitHub repository, "MechaCar_Statistical_Analysis," and initialize the repository with a README.
