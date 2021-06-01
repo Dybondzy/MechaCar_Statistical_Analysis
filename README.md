@@ -156,3 +156,7 @@ The MechaCarChallenge.RScript file.
 An updated README.md that has the written summaries for Deliverables 1, 2, and 3 and your design for a statistical study comparing vehicle performance of the MechaCars against other manufacturers’ vehicles.
 To submit your challenge assignment in Canvas, click Submit, then provide the URL of your MechaCar_Statistical_Analysis GitHub repository for grading.
 
+
+[link to dashboard](https://public.tableau.com/app/profile/dinah.bondzie/viz/NYC_Citibike_Challenge_Module14/UserTripsbyGenderbyWeekday)
+[link to dashboard](LINK GOES HERE "link to dashboard")
+
