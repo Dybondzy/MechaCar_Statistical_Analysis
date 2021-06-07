@@ -46,8 +46,14 @@ Use the library() function to load the dplyr package.
 Import and read in the MechaCar_mpg.csv file as a dataframe.
 Perform linear regression using the lm() function. In the lm() function, pass in all six variables (i.e., columns), and add the dataframe you created in Step 4 as the data parameter.
 Using the summary() function, determine the p-value and the r-squared value for the linear regression model.
+
+! https://github.com/Dybondzy/MechaCar_Statistical_Analysis/blob/main/MechaCarChallenge.r
+
+
 Save your MechaCarChallenge.RScript file to your GitHub repository.
 Written Summary
+
+! https://github.com/Dybondzy/MechaCar_Statistical_Analysis/edit/main/README.md
 In your README, create a subheading, ## Linear Regression to Predict MPG, and write a short summary using a screenshot of the output from the linear regression, and address the following questions:
 
 Which variables/coefficients provided a non-random amount of variance to the mpg values in the dataset?
@@ -74,13 +80,12 @@ Technical Analysis
 Download the Suspension_Coil.csv file, and place it in the active directory for your R session.
 In your MechaCarChallenge.RScript, import and read in the Suspension_Coil.csv file as a table.
 Write an RScript that creates a total_summary dataframe using the summarize() function to get the mean, median, variance, and standard deviation of the suspension coil’s PSI column.
-Your total_summary dataframe should look like this:
-
-Your total_summary dataframe should look like this:
+! https://github.com/Dybondzy/MechaCar_Statistical_Analysis/blob/main/MechaCarChallenge.r
 
 The total summary dataframe showing the mean, median, variance, and standard deviation
 
 Write an RScript that creates a lot_summary dataframe using the group_by() and the summarize() functions to group each manufacturing lot by the mean, median, variance, and standard deviation of the suspension coil’s PSI column.
+
 Your lot_summary dataframe should look like this:
 
 The lot summary dataframe showing the mean, median, variance, and standard deviation for each manufacturing lot
@@ -156,7 +161,4 @@ The MechaCarChallenge.RScript file.
 An updated README.md that has the written summaries for Deliverables 1, 2, and 3 and your design for a statistical study comparing vehicle performance of the MechaCars against other manufacturers’ vehicles.
 To submit your challenge assignment in Canvas, click Submit, then provide the URL of your MechaCar_Statistical_Analysis GitHub repository for grading.
 
-
-[link to dashboard](https://public.tableau.com/app/profile/dinah.bondzie/viz/NYC_Citibike_Challenge_Module14/UserTripsbyGenderbyWeekday)
-[link to dashboard](LINK GOES HERE "link to dashboard")
 
