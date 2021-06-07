@@ -90,6 +90,10 @@ Your lot_summary dataframe should look like this:
 
 The lot summary dataframe showing the mean, median, variance, and standard deviation for each manufacturing lot
 
+! https://github.com/Dybondzy/MechaCar_Statistical_Analysis/blob/main/TotalSummary.png
+
+! https://github.com/Dybondzy/MechaCar_Statistical_Analysis/blob/main/TotalSummaryG.png
+
 Save your MechaCarChallenge.RScript file to your GitHub repository.
 Written Summary
 In your README, create a subheading ## Summary Statistics on Suspension Coils, and write a short summary using screenshots from your total_summary and lot_summary dataframes, and address the following question:
@@ -155,7 +159,7 @@ Deliverable 1: Linear Regression to Predict MPG
 Deliverable 2: Summary Statistics on Suspension Coils
 Deliverable 3: T-Test on Suspension Coils
 Deliverable 4: Design a Study Comparing the MechaCar to the Competition
-Upload the following to your MechaCar_Statistical_Analysis GitHub repository:
+
 
 The MechaCarChallenge.RScript file.
 An updated README.md that has the written summaries for Deliverables 1, 2, and 3 and your design for a statistical study comparing vehicle performance of the MechaCars against other manufacturers’ vehicles.
